@@ -35,6 +35,8 @@ You can find dataset in the project file.
 
 ![Resim Açıklaması](totalsa.png)
 
+## Video
+Click the button for quick project video (https://sametyolcu.com/excel-dashboard-project).
 
 
 ## Website
