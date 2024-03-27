@@ -39,4 +39,4 @@ You can find dataset in the project file.
 
 ## Website
 
-For more information about the project, visit my website (https://www.sametyolcu.com/portfolio).
+For more information about the project, visit my website (https://sametyolcu.com/excel-dashboard-project).
