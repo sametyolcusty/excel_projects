@@ -29,7 +29,6 @@ The aim of this project is to create a dashboard that can quickly and effectivel
         Building the Dashboard
 
 ![Resim Açıklaması](prod.png)
-
 ## Dataset 
 
 You can find dataset in the project file.
